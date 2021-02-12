@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.table{
+    margin: auto;
+    margin-top: 200px;
+}
+
+.table button{
+    padding: 50px;
+    font-size: 10px;
+    color: white;
+    
+}
